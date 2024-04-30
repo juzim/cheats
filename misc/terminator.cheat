@@ -1,0 +1,157 @@
+% terminator
+
+# Vertical split
+Ctrl+Shift+E
+
+# Horizontal split
+Ctrl+Shift+O
+
+# Navigate terminals
+Alt+ArrowKeys
+
+# Focus be active on the previous view
+Ctrl+Shift+P
+
+# Focus be active on the next view
+Ctrl+Shift+N
+
+# Close the view where the focus is on
+Ctrl+Shift+W
+
+# Exit terminator
+Ctrl+Shift+Q
+
+# Focus active window and enlarge it
+Ctrl+Shift+X
+
+# Open a new window
+Ctrl+Shift+I
+
+# Open Layout Launcher
+Alt+L
+
+# Group All
+Ctrl+G 
+
+# Ungroup All
+Ctrl+Shift+G
+
+# Group Tab
+Super+T
+
+# Ungroup Tab
+Super+Shift+T
+
+# Broadcast to all terminals
+Alt+A
+
+# Broadcast to Grouped terminals
+Alt+G
+
+# Broadcast off
+Alt+O
+
+# Toggle window to fullscreen
+F11
+
+# Max. current terminal (toggle)
+Ctrl+Shift+X
+
+# Zoom current terminal (toggle)
+Ctrl+Shift+Z
+
+# Hide the initial window
+Ctrl+Shift+Alt+A
+
+# Focus on the terminal above
+Alt+Up
+
+# Focus on the terminal below
+Alt+Dn
+
+# Focus on the terminatl left
+Alt+Left
+
+# Focus on the terminal right
+Alt+Right
+
+# Move to next terminal in open window
+Ctrl+Tab
+
+# Move to previous terminal in open window
+Ctrl+Shift+Tab
+
+# Move to next Tab
+Ctrl+PgUp
+
+# Move to previous Tab
+Ctrl+PgDn
+
+# Move parent dragbar Right
+Ctrl+Shift+Right
+
+# Move parent dragbar Left
+Ctrl+Shift+Left
+
+# Move parent dragbar Up
+Ctrl+Shift+Up
+
+# Move parent dragbar Down
+Ctrl+Shift+Down
+
+# Swap tab position with next Tab
+Ctrl+Shift+PgUp
+
+# Swap tab position with previous Tab|
+Ctrl+Shift+PgDn
+
+# Rotate terminal clockwise
+Super+R
+
+# Rotate terminal counter-clockwise
+Super+Shift+R
+
+# Copy selected text to clipboard
+Ctrl+Shift+C
+
+# Paste clipboard text
+Ctrl+Shift+V
+
+# Hide/Show Scrollbar
+Ctrl+Shift+S
+
+# Search within terminal scrollback
+Ctrl+Shift+F
+
+# Reset terminal state
+Ctrl+Shift+R
+
+# Reset terminal state and clear window
+Ctrl+Shift+G
+
+# Increase font size
+Ctrl+Plus
+
+# Decrease font size
+Ctrl+Minus
+
+# Restore font size to original settings
+Ctrl+Zero
+
+# Rename window title
+Ctrl+Alt+W
+
+# Rename tab title
+Ctrl+Alt+A
+
+# Rename terminal title
+Ctrl+Alt+X
+
+# Insert terminal number
+Super+1
+
+# Insert padded terminal number
+Super+0
+
+# Open new tab
+Ctrl+Shift+T
